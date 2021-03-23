@@ -1,5 +1,5 @@
 # vb
-Visual Basic macros
+Visual Basic macros for Excel
 
 To run the application find macro called "showMenu". Interface is in polish. In code I use english names.
 The application helped me to create printouts and also saves the data on the disk. The application allowed me to reduce the time of preparing the printout.
